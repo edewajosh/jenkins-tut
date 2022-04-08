@@ -1,2 +1,2 @@
 # jenkins-tut
-Building this small hello application using Jenkins
+Hello world CI/CD using Jenkins
